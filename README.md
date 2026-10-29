@@ -21,7 +21,7 @@ Python 3.7 or higher
 pip package manager
 
 ### Step 1: Clone the repository
-git clone https://github.com/your-username/AI_based_spam_detection.git
+git clone https://github.com/mannya05/AI_based_spam_detection.git
 cd AI_based_spam_detection
 
 ### Step 2: Create and activate a virtual environment (recommended)
